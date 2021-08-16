@@ -6,16 +6,16 @@
     transition: all .6s ease-in-out;
     position: fixed;
     width: 10%;
-    opacity: 0.6;
+    opacity: 0.7;
     height: auto;
 }
 
 head {
-    color: gray;
+    color: black;
     font-size: 20px;
     text-align: left;
 }
 html {
-    color: gray;
+    color: #555555;
     background-color: pink;
 }
