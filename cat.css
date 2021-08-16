@@ -1,0 +1,21 @@
+.buttons > button {
+    background-image: url("cat.png");
+}
+
+.maw {
+    transition: all .6s ease-in-out;
+    position: fixed;
+    width: 10%;
+    opacity: 0.6;
+    height: auto;
+}
+
+head {
+    color: gray;
+    font-size: 20px;
+    text-align: left;
+}
+html {
+    color: gray;
+    background-color: pink;
+}
